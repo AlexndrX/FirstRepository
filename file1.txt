@@ -1,2 +1,3 @@
 Practice of the work with git!
 123458465
+Good bye!
